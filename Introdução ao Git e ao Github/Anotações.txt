@@ -1,2 +1,12 @@
 Link para dowload do git:
 https://git-scm.com/downloads
+
+Guia básico de publicações e commits no github
+
+## (git status) : Para saber o status atual da minha máquina local
+
+## (git add .) : para preparar para commitar.
+
+## (git commit -m "Aqui o que você quer anotar commitando")
+
+## (git push origin main) para enviar ao repositório remoto
