@@ -3,10 +3,16 @@ https://git-scm.com/downloads
 
 Guia básico de publicações e commits no github
 
-## (git status) : Para saber o status atual da minha máquina local
+1## (git config --global user.email "o email desejado") : Para vincular o email do autor no github
 
-## (git add .) : para preparar para commitar.
+2## (git config --global user.name e o nome do usuário) : Para vincular o nome do autor no github
 
-## (git commit -m "Aqui o que você quer anotar commitando")
+3## (git clone "o link do html") : para clonar o repositório no repositório local.
 
-## (git push origin main) para enviar ao repositório remoto
+4## (git status) : Para saber o status atual da minha máquina local.
+
+5## (git add .) : para preparar para commitar.
+
+6## (git commit -m "Aqui o que você quer anotar commitando") : para comitar.
+
+7## (git push origin main) para enviar ao repositório remoto.
